@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[29]:
-
-
 # Median of two sorted array
 
 def get_median(array1, array2):
@@ -20,4 +14,3 @@ def get_median(array1, array2):
 # arr1 = [1,2,4,6,8,10]
 # arr2 = [3,5,6,7,9,11]
 # get_median(arr1,arr2)
-
